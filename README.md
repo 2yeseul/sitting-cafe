@@ -1,5 +1,8 @@
 ## sitting-cafe
 
+![structure](https://user-images.githubusercontent.com/43533905/45959540-0f861a00-c055-11e8-8b38-e283996263eb.png)
+
+
 ### Sitting cafe('앉는 카페') shows the number of people in CAFE in real time. 
 
 I use arduino D1 R1 board that the ESP8266 (wifi module) mounted in it to make connection between arduino and the server by PHP.
